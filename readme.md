@@ -36,9 +36,7 @@ Sausage pork belly landjaeger porchetta tail prosciutto corned beef boudin doner
 If you read all of the above, you might be pretty hungry by now. Enjoy the next couple of images then ;)
 
 
-## Bacon Mocks
-
-[Bacon Mockup](http://baconmockup.com/)
+## Bacon Mockup [baconmockup.com](http://baconmockup.com/)
 
 A simple way to use pictures of tasty meat as placeholders in your design.
 
@@ -72,4 +70,20 @@ https://baconmockup.com/300/400
 
 Ready to order some bacon?
 
+
+## BACON - things developers love [devslovebacon.com](http://devslovebacon.com/)
+
+BACON is a two-day conference on all the things developers love.
+
+    BUT I'M VEGETARIAN...
+    That’s awesome, we’d love to meat you!
+
+
+## New job & 1 years supply of bacon [hubbub.com](http://developers.hubbub.co.uk/years_supply_of_bacon)
+
+Hubbub offers a year's free supply of bacon to new developers, or to anybody who recommends somebody they go on to hire. And they say it is *seriously* good bacon.
+
+## Find bacon [findbacon.com](https://findbacon.com/)
+
+Search thousands of sizzling hot jobs for web designers and developers.
 
