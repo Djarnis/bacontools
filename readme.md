@@ -33,8 +33,6 @@ Pork rump venison, bresaola sausage beef pork belly ham pork chop. Spare ribs ch
 Sausage pork belly landjaeger porchetta tail prosciutto corned beef boudin doner bacon cow ham meatloaf andouille pork chop. Porchetta landjaeger flank ground round tri-tip rump, turkey spare ribs picanha filet mignon venison pork loin brisket shoulder andouille. Chuck jowl tongue strip steak kielbasa prosciutto. Andouille turkey pancetta, cow leberkas prosciutto tenderloin ham picanha hamburger. Alcatra short loin turkey pancetta, pork flank beef leberkas rump swine corned beef jowl. Kielbasa turkey cow bresaola corned beef pork. Meatball doner ham hock bacon hamburger fatback.
 ```
 
-If you read all of the above, you might be pretty hungry by now. Enjoy the next couple of images then ;)
-
 
 ## Bacon Mockup [baconmockup.com](http://baconmockup.com/)
 
@@ -68,8 +66,6 @@ https://baconmockup.com/300/400
 ![300 / 400](http://baconmockup.com/300/400)
 
 
-Ready to order some bacon?
-
 
 ## BACON - things developers love [devslovebacon.com](http://devslovebacon.com/)
 
@@ -82,6 +78,7 @@ BACON is a two-day conference on all the things developers love.
 ## New job & 1 years supply of bacon [hubbub.com](http://developers.hubbub.co.uk/years_supply_of_bacon)
 
 Hubbub offers a year's free supply of bacon to new developers, or to anybody who recommends somebody they go on to hire. And they say it is *seriously* good bacon.
+
 
 ## Find bacon [findbacon.com](https://findbacon.com/)
 
