@@ -7,7 +7,7 @@ It's a fact. Developers __love__ bacon.
 This is the beginning of an awesome list of **Bacon Tools for Developers**.
 
 
-## Bacon Icon
+## Bacon Icon ~~~
 
 The universal icon for bacon. Comes with most keyboards. Because developers love bacon ;)
 
