@@ -74,6 +74,8 @@ BACON is a two-day conference on all the things developers love.
     BUT I'M VEGETARIAN...
     That’s awesome, we’d love to meat you!
 
+Unfortunately, it doesn't seem as if there will be a 2015 ~~~ BACONference ~~~
+
 
 ## New job & 1 years supply of bacon [hubbub.com](http://developers.hubbub.co.uk/years_supply_of_bacon)
 
