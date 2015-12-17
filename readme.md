@@ -87,3 +87,12 @@ Hubbub offers a year's free supply of bacon to new developers, or to anybody who
 
 Search thousands of sizzling hot jobs for web designers and developers.
 
+
+## The Bacon Programming Language [github.com/tomgco/bacon](https://github.com/tomgco/bacon)
+
+Bacon is an esoteric programming language, which uses Bacon.
+
+
+## Bacon for me [baconforme.com](http://baconforme.com/)
+
+It's Bacon! A jQuery plugin that allows you to wrap text around a bezier curve or a line. You can view a demo with a conveniently placed slice of juicy, delicious bacon on the website.
