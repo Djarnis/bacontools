@@ -42,14 +42,18 @@ Combine with Bacon Ipsum for best results.
 
 
 ```
-http://baconmockup.com/415/415
-http://baconmockup.com/700/400
-http://baconmockup.com/800/400
+http://baconmockup.com/400/400
+http://baconmockup.com/400/401
+http://baconmockup.com/400/402
+http://baconmockup.com/400/403
+http://baconmockup.com/400/404
+...
 
 # Even works with https ;)
-https://baconmockup.com/415/415
-https://baconmockup.com/700/400
-https://baconmockup.com/800/400
+https://baconmockup.com/400/400
+https://baconmockup.com/400/401
+https://baconmockup.com/400/402
+...
 ```
 
 
@@ -69,40 +73,6 @@ https://baconmockup.com/800/400
 ![400 / 413](http://baconmockup.com/400/413)
 ![400 / 414](http://baconmockup.com/400/414)
 ![400 / 415](http://baconmockup.com/400/415)
-
-
-
-![400 / 400](http://baconmockup.com/400/400)
-![401 / 400](http://baconmockup.com/401/400)
-![402 / 400](http://baconmockup.com/402/400)
-![403 / 400](http://baconmockup.com/403/400)
-![404 / 400](http://baconmockup.com/404/400)
-![405 / 400](http://baconmockup.com/405/400)
-![406 / 400](http://baconmockup.com/406/400)
-![407 / 400](http://baconmockup.com/407/400)
-![408 / 400](http://baconmockup.com/408/400)
-![409 / 400](http://baconmockup.com/409/400)
-![410 / 400](http://baconmockup.com/410/400)
-![411 / 400](http://baconmockup.com/411/400)
-![412 / 400](http://baconmockup.com/412/400)
-![413 / 400](http://baconmockup.com/413/400)
-![414 / 400](http://baconmockup.com/414/400)
-![415 / 400](http://baconmockup.com/415/400)
-
-
-
-### 415/415
-
-![415 / 415](http://baconmockup.com/415/415)
-
-### 700/400
-
-![700 / 400](http://baconmockup.com/700/400)
-
-### 800/400
-
-![800 / 400](http://baconmockup.com/800/400)
-
 
 
 ## BACON - things developers love [devslovebacon.com](http://devslovebacon.com/)
