@@ -42,28 +42,27 @@ Combine with Bacon Ipsum for best results.
 
 
 ```
-http://baconmockup.com/300/200
-http://baconmockup.com/300/300
-http://baconmockup.com/300/400
+http://baconmockup.com/415/415
+http://baconmockup.com/700/400
+http://baconmockup.com/800/400
 
 # Even works with https ;)
-https://baconmockup.com/300/200
-https://baconmockup.com/300/300
-https://baconmockup.com/300/400
+https://baconmockup.com/415/415
+https://baconmockup.com/700/400
+https://baconmockup.com/800/400
 ```
 
+### 415/415
 
-### 300/200
+![415 / 415](http://baconmockup.com/415/415)
 
-![300 / 200](http://baconmockup.com/300/200)
+### 700/400
 
-### 300/300
+![700 / 400](http://baconmockup.com/700/400)
 
-![300 / 300](http://baconmockup.com/300/300)
+### 800/400
 
-### 300/400
-
-![300 / 400](http://baconmockup.com/300/400)
+![800 / 400](http://baconmockup.com/800/400)
 
 
 
