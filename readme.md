@@ -85,6 +85,13 @@ BACON is a two-day conference on all the things developers love.
 Unfortunately, it doesn't seem as if there will be a 2015 ~~~ BACONference ~~~
 
 
+## bacon.js [baconjs.github.io](https://baconjs.github.io)
+
+A small functional reactive programming lib for JavaScript.
+
+Turns your event spaghetti into clean and declarative feng shui bacon, by switching from imperative to functional. It's like replacing nested for-loops with functional programming concepts like map and filter. Stop working on individual events and work with event streams instead. Combine your data with merge and combine. Then switch to the heavier weapons and wield flatMap and combineTemplate like a boss.
+
+
 ## New job & 1 years supply of bacon [hubbub.com](http://developers.hubbub.co.uk/years_supply_of_bacon)
 
 Hubbub offers a year's free supply of bacon to new developers, or to anybody who recommends somebody they go on to hire. And they say it is *seriously* good bacon.
